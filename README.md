@@ -20,3 +20,7 @@ Welcome to the Bike Sales Dashboard project, where data meets decision-making. T
 2. **Open the dashboard:** Explore the graphs, slices, and data visualizations.
 
 3. **Customize Views:** Filter data and interact with the dashboard to derive valuable insights.
+
+## Get Started
+
+- [Download Bike Sales Dashboard](https://github.com/jorgeyanas/Excel-Project/raw/main/Excel%20Project.xlsx)
